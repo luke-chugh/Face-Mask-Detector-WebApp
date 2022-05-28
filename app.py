@@ -34,7 +34,7 @@ net = load_face_detector()
 model = load_our_model()
 
 uploaded_image = st.sidebar.file_uploader("Choose a JPG, JPEG or PNG file", type=["jpg","png","jpeg","webp"])
-confidence_value = st.sidebar.slider('Confidence:', min_value=0.0, max_value=1.0, value=0.3, step=0.1)
+confidence_value = st.sidebar.slider('Confidence:', min_value=0.2, max_value=1.0, value=0.3, step=0.1)
 if uploaded_image:
     st.sidebar.info('Uploaded image:')
     st.sidebar.image(uploaded_image, width=240)
