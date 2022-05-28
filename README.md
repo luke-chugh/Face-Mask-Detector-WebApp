@@ -2,7 +2,7 @@
 
 # Below are the screenshots of my web app:
 
-![Capture](https://github.com/luke-chugh/Face-Mask-Detector-WebApp/blob/main/screenshots/1.png)
+![Capture](https://github.com/luke-chugh/Face-Mask-Detector-WebApp/blob/main/screenshots/a.png)
 
 
 ![Capture](https://github.com/luke-chugh/Face-Mask-Detector-WebApp/blob/main/screenshots/2.png)
