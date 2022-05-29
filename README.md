@@ -2,7 +2,7 @@
 
  **MobileNet-V2** was implemented to classify images as belonging to **Mask** or **WithoutMask** categories which resulted in 99.2% accuracy. Then **Caffe Model** was implemented to detect all the faces (with frames) in each image and finally **CV2** library was used to label each of these frames with their respective class labels + confidence/probability. The dataset can be found [here](https://www.kaggle.com/datasets/ashishjangra27/face-mask-12k-images-dataset). 
  
-This WebApp also has a slider which one can control to see only those detections which have greater probability of belonging to both the classes than the confidence set by the slider
+This WebApp also has a **slider** which one can control to see only those detections which have greater probability of belonging to both the classes than the confidence set by the slider
 
 # Below is the screenshot of my web app:
 
