@@ -1,6 +1,6 @@
 # Face Mask Detector WebApp: [[WebApp link]](https://share.streamlit.io/luke-chugh/face-mask-detector-webapp/main/app.py)
 
- **MobileNet-V2** was implemented to classify images as belonging to **Mask** or **WithoutMask** categories which resulted in 99.2% accuracy. Then **Caffe Model** was implemented to detect all the faces and finally **CV2** library was used to label each of these frames with their respective class labels + confidence/probability. The dataset can be found [here](https://www.kaggle.com/datasets/ashishjangra27/face-mask-12k-images-dataset). 
+ **MobileNet-V2** was implemented to classify images as belonging to **Mask** or **WithoutMask** categories which resulted in 99.2% accuracy. Then **Caffe Model** was implemented to detect all the faces in each image and finally **CV2** library was used to label each of these frames with their respective class labels + confidence/probability. The dataset can be found [here](https://www.kaggle.com/datasets/ashishjangra27/face-mask-12k-images-dataset). 
 
 # Below is the screenshot of my web app:
 
