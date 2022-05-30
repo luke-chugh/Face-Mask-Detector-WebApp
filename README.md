@@ -8,7 +8,7 @@ This WebApp also has a **slider** which one can control to see only those detect
 
 ![Capture](https://github.com/luke-chugh/Face-Mask-Detector-WebApp/blob/main/screenshots/2.png)
 
-# Installation
+# Installation::
 To install the required packages and libraries, run this command in the project directory after [cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository:
 ```bash
 pip install -r requirements.txt
@@ -17,6 +17,6 @@ To run this app in your local machine open a command prompt or terminal in the c
 ```bash
 streamlit run app.py
 ```
-# Author
+# Author:
 [Luke Chugh](https://www.linkedin.com/in/luke-chugh-2b2043181/)
 
