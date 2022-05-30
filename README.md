@@ -4,7 +4,7 @@
  
 This WebApp also has a **slider** which one can control to see only those detections which have greater probability of belonging to both the classes than the confidence set by the slider
 
-# Below is the screenshot of my web app:
+# Below is the screenshot of this WebApp:
 
 ![Capture](https://github.com/luke-chugh/Face-Mask-Detector-WebApp/blob/main/screenshots/2.png)
 
