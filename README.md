@@ -1,4 +1,4 @@
-# Face Mask Detector WebApp: [[WebApp link]](https://share.streamlit.io/luke-chugh/face-mask-detector-webapp/main/app.py)
+# Face Mask Detector WebApp: [[WebApp Link]](https://share.streamlit.io/luke-chugh/face-mask-detector-webapp/main/app.py)
 
 ![](https://img.shields.io/badge/python-3.10.4-blueviolet)
 ![](https://img.shields.io/badge/tensorflow-2.9.0-fuchsia)
